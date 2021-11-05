@@ -75,6 +75,9 @@ The schheduler will start and connect to the weather station after the first int
 
 Latest version
 
+### **WORK IN PROGRESS**
+* Fix for unknown command 11 subcommand 2 error
+
 #### 0.7.3 Dependency updates and Travis testing updates
 
 #### 0.7.2 Dependency updates for security vulnerabilities 
