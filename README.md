@@ -77,6 +77,7 @@ Latest version
 
 ### **WORK IN PROGRESS**
 * Fix for unknown command 11 subcommand 2 error
+* Fix for values that are null (= 0) are not set in scheduler
 
 #### 0.7.3 Dependency updates and Travis testing updates
 
